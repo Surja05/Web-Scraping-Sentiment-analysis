@@ -1,0 +1,2708 @@
+Enter filename: 1.txt
+Positive Score 0.077
+Negetive Score 0.042
+Positive Sentiment is observed
+The Polarity score is 0.2941186470588235
+The Subjectivity score is 2.7251930288991837e-05
+The Word Count : 740
+Avg_word_length : 5.036486486486487
+The Avg no of words per Sentence : 740.0
+The No of syllables present:247
+The complex word count : 740
+The Percentage of complex words : 100.0
+The Fog Index : 2.9600000000000004
+Number of pronouns present: 3
+PS C:\Users\surja\Documents\Python Scripts\BeautifulSoup> & C:/Userss/Python Scripts/BeautifulSoup/Test.py"
+Enter filename: 1.txt
+Positive Score 0.077
+Negetive Score 0.042
+Positive Sentiment is observed
+The Polarity score is 0.2941186470588235        
+The Subjectivity score is 2.7251930288991837e-05
+The Word Count : 740
+Avg_word_length : 5.036486486486487
+The Avg no of words per Sentence : 740.0        
+The No of syllables present:247
+The complex word count : 740
+The Percentage of complex words : 100.0
+The Fog Index : 2.9600000000000004
+Number of pronouns present: 3
+Enter filename: 2.txt
+Positive Score 0.144
+Negetive Score 0.037
+Positive Sentiment is observed
+The Polarity score is 0.5911612209944751
+The Subjectivity score is 4.5017509727626454e-05
+The Word Count : 645
+Avg_word_length : 5.266666666666667
+The Avg no of words per Sentence : 645.0
+The No of syllables present:232
+The complex word count : 645
+The Percentage of complex words : 100.0
+The Fog Index : 2.58
+Number of pronouns present: 3
+Enter filename: 3.txt
+Positive Score 0.141
+Negetive Score 0.024
+Positive Sentiment is observed
+The Polarity score is 0.7090919090909091
+The Subjectivity score is 1.5101358858217246e-05
+PS C:\Users\surja\Documents\Python Scripts\BeautifulSoup> & C:/Userss/Python Scripts/BeautifulSoup/Test.py"
+Enter filename: 1.txt
+Positive Score 0.077
+Negetive Score 0.042
+Positive Sentiment is observed
+PS C:\Users\surja\Documents\Python Scripts\BeautifulSoup> & C:/Userss/Python Scripts/BeautifulSoup/Test.py"
+Enter filename: 1.txt
+Positive Score 0.077
+Negetive Score 0.042
+Positive Sentiment is observed
+The Polarity score is 0.2941186470588235        
+The Subjectivity score is 2.7251930288991837e-05
+The Word Count : 740
+Avg_word_length : 5.036486486486487
+The Avg no of words per Sentence : 740.0        
+The No of syllables present:247        
+The complex word count : 740
+The Percentage of complex words : 100.0
+The Fog Index : 2.9600000000000004     
+Number of pronouns present: 3
+Enter filename: 2.txt
+Positive Score 0.144
+Negetive Score 0.037
+Positive Sentiment is observed
+The Polarity score is 0.5911612209944751
+The Subjectivity score is 4.5017509727626454e-05
+The Word Count : 645
+The Avg no of words per Sentence : 645.0
+The No of syllables present:232
+The complex word count : 645
+The Percentage of complex words : 100.0
+The Fog Index : 2.58
+Number of pronouns present: 3
+Enter filename: Traceback (most recent call last):
+  File "c:\Users\surja\Documents\Python Scripts\BeautifulSoup\Test.p
+    e = str(extract(line))
+  File "c:\Users\surja\Documents\Python Scripts\BeautifulSoup\Test.p
+    filepath = directory + input("Enter filename: ")
+KeyboardInterrupt
+PS C:\Users\surja\Documents\Python Scripts\BeautifulSoup> & C:/Userss/Python Scripts/BeautifulSoup/Test.py"
+Enter filename: 1.txt
+Positive Score 0.077
+Negetive Score 0.042
+Positive Sentiment is observed
+The Polarity score is 0.2941186470588235
+The Subjectivity score is 2.7251930288991837e-05
+The Word Count : 740
+The Avg no of words per Sentence : 740.0
+The No of syllables present:247
+The complex word count : 740
+The Percentage of complex words : 100.0
+The Fog Index : 2.9600000000000004
+Enter filename: Traceback (most recent call last):
+  File "c:\Users\surja\Documents\Python Scripts\BeautifulSoup\Test.p
+    e = str(extract(line))
+  File "c:\Users\surja\Documents\Python Scripts\BeautifulSoup\Test.p
+    filepath = directory + input("Enter filename: ")
+KeyboardInterrupt
+PS C:\Users\surja\Documents\Python Scripts\BeautifulSoup> & C:/Userss/Python Scripts/BeautifulSoup/Test.py"
+  File "c:\Users\surja\Documents\Python Scripts\BeautifulSoup\Test.p
+    ^
+IndentationError: expected an indented block
+PS C:\Users\surja\Documents\Python Scripts\BeautifulSoup> & C:/Userss/Python Scripts/BeautifulSoup/Test.py"
+Enter filename: & C:/Users/surja/AppData/Local/Programs/Python/Pytho
+Traceback (most recent call last):
+  File "c:\Users\surja\Documents\Python Scripts\BeautifulSoup\Test.p
+    extract(line)
+  File "c:\Users\surja\Documents\Python Scripts\BeautifulSoup\Test.p
+    with open(filepath, 'w') as f:
+OSError: [Errno 22] Invalid argument: '& C:/Users/surja/AppData/LocaautifulSoup/Test.py"'
+PS C:\Users\surja\Documents\Python Scripts\BeautifulSoup> & C:/Userss/Python Scripts/BeautifulSoup/Test.py"
+Enter filename: 1.txt
+Positive Score 0.077
+Negetive Score 0.042
+Positive Sentiment is observed
+The Polarity score is 0.2941186470588235
+The Word Count : 740
+Avg_word_length : 5.036486486486487
+The Avg no of words per Sentence : 740.0
+The No of syllables present:247
+The complex word count : 740
+The Percentage of complex words : 100.0
+The Fog Index : 2.9600000000000004
+Number of pronouns present: 3
+Traceback (most recent call last):
+  File "c:\Users\surja\Documents\Python Scripts\BeautifulSoup\Test.p
+    f.write()
+TypeError: TextIOWrapper.write() takes exactly one argument (0 given
+PS C:\Users\surja\Documents\Python Scripts\BeautifulSoup> & C:/Userss/Python Scripts/BeautifulSoup/Test.py"
+Enter filename: 1.txt
+Positive Score 0.077
+Negetive Score 0.042
+Positive Sentiment is observed
+The Polarity score is 0.2941186470588235
+The Subjectivity score is 2.7251930288991837e-05
+The Word Count : 740
+Avg_word_length : 5.036486486486487
+The Avg no of words per Sentence : 740.0
+The No of syllables present:247
+The complex word count : 740
+The Percentage of complex words : 100.0
+The Fog Index : 2.9600000000000004
+Number of pronouns present: 3
+Traceback (most recent call last):
+  File "c:\Users\surja\Documents\Python Scripts\BeautifulSoup\Test.p
+    f.write (str(extract(line)))
+  File "c:\Users\surja\Documents\Python Scripts\BeautifulSoup\Test.p
+    r= requests.get(url, headers=headers)
+PS C:\Users\surja\Documents\Python Scripts\BeautifulSoup> & C:/Users/surja/AppData/Local/Programs/Python/Python39/python.exe "c:/Users/surja/Documents/Python Scripts/BeautifulSoup/Test.py"
+Enter filename: 1.txt
+Positive Score 0.077
+Negetive Score 0.042
+Positive Sentiment is observed
+The Polarity score is 0.2941186470588235        
+The Subjectivity score is 2.7251930288991837e-05
+The Word Count : 740
+Avg_word_length : 5.036486486486487
+The Avg no of words per Sentence : 740.0        
+The No of syllables present:247
+The complex word count : 740
+The Percentage of complex words : 100.0
+The Fog Index : 2.9600000000000004
+Number of pronouns present: 3
+None
+Enter filename: 2.txt
+Positive Score 0.144
+Negetive Score 0.037
+Positive Sentiment is observed
+The Polarity score is 0.5911612209944751
+The Subjectivity score is 4.5017509727626454e-05
+The Word Count : 645
+Avg_word_length : 5.266666666666667
+The Avg no of words per Sentence : 645.0
+The No of syllables present:232
+The complex word count : 645
+The Percentage of complex words : 100.0
+The Fog Index : 2.58
+Number of pronouns present: 3
+None
+Enter filename: 3.txt
+Positive Score 0.141
+Negetive Score 0.024
+Positive Sentiment is observed
+The Polarity score is 0.7090919090909091
+The Subjectivity score is 1.5101358858217246e-05
+The Word Count : 1861
+Avg_word_length : 5.205803331542182
+The Avg no of words per Sentence : 1861.0
+The No of syllables present:643
+The complex word count : 1861
+The Percentage of complex words : 100.0
+The Fog Index : 7.444
+Number of pronouns present: 4
+None
+Enter filename: 4.txt
+Positive Score 0.09
+Negetive Score 0.0
+Positive Sentiment is observed
+The Polarity score is 1.000001
+The Subjectivity score is 3.2667839549612946e-05
+The Word Count : 449
+Avg_word_length : 5.242761692650334
+The Avg no of words per Sentence : 449.0
+The No of syllables present:154
+The complex word count : 449
+The Percentage of complex words : 100.0
+The Fog Index : 1.7960000000000003
+Number of pronouns present: 3
+None
+Enter filename: 5.txt
+Positive Score 0.134
+Negetive Score 0.026
+Positive Sentiment is observed
+The Polarity score is 0.6750010000000001
+The Subjectivity score is 2.1989111898202807e-05
+The Word Count : 1242
+Avg_word_length : 4.997584541062802
+The Avg no of words per Sentence : 1242.0
+The No of syllables present:459
+The complex word count : 1242
+The Percentage of complex words : 100.0
+The Fog Index : 4.968
+Number of pronouns present: 4
+None
+Enter filename: 6.txt 
+Positive Score 0.101
+Negetive Score 0.018
+Positive Sentiment is observed
+The Polarity score is 0.6974799915966386
+The Subjectivity score is 1.7157501697216565e-05
+The Word Count : 1146
+Avg_word_length : 5.319371727748691
+The Avg no of words per Sentence : 1146.0
+The No of syllables present:413
+The complex word count : 1146
+The Percentage of complex words : 100.0
+The Fog Index : 4.5840000000000005
+Number of pronouns present: 3
+None
+Enter filename: 7.txt
+Positive Score 0.158
+Negetive Score 0.05
+Positive Sentiment is observed
+The Polarity score is 0.5192317692307692
+The Subjectivity score is 2.3613611654707547e-05
+The Word Count : 1363
+Avg_word_length : 5.563462949376375
+The Avg no of words per Sentence : 1363.0
+The No of syllables present:450
+The complex word count : 1363
+The Percentage of complex words : 100.0
+The Fog Index : 5.452000000000001
+Number of pronouns present: 3
+None
+Enter filename: 8.txt
+Positive Score 0.092
+Negetive Score 0.014
+Positive Sentiment is observed
+The Polarity score is 0.7358500566037737
+The Subjectivity score is 1.0100274725274725e-05
+The Word Count : 1814
+Avg_word_length : 5.299338478500551
+The Avg no of words per Sentence : 1814.0
+The No of syllables present:622
+The complex word count : 1814
+The Percentage of complex words : 100.0
+The Fog Index : 7.256
+Number of pronouns present: 4
+None
+Enter filename: 9.txt
+Positive Score 0.13
+Negetive Score 0.024
+Positive Sentiment is observed
+The Polarity score is 0.6883126883116885
+The Subjectivity score is 1.589217677207233e-05
+The Word Count : 1636
+Avg_word_length : 5.22921760391198
+The Avg no of words per Sentence : 1636.0
+The No of syllables present:555
+The complex word count : 1636
+The Percentage of complex words : 100.0
+The Fog Index : 6.5440000000000005
+Number of pronouns present: 3
+None
+Enter filename: 10.txt
+Positive Score 0.119
+Negetive Score 0.193
+Negetive Sentiment is observed
+The Polarity score is -0.23717848717948722
+The Subjectivity score is 8.676140736668499e-05
+The Word Count : 608
+Avg_word_length : 4.8667763157894735
+The Avg no of words per Sentence : 608.0
+The No of syllables present:233
+The complex word count : 608
+The Percentage of complex words : 100.0
+The Fog Index : 2.4320000000000004
+Number of pronouns present: 3
+None
+Enter filename: 11.txt
+Positive Score 0.138
+Negetive Score 0.017
+Positive Sentiment is observed
+The Polarity score is 0.7806461612903225
+The Subjectivity score is 3.812574850299401e-05
+The Word Count : 665
+Avg_word_length : 5.1533834586466165
+The Avg no of words per Sentence : 665.0
+The No of syllables present:246
+The complex word count : 665
+The Percentage of complex words : 100.0
+The Fog Index : 2.66
+Number of pronouns present: 3
+None
+Enter filename: 12.txt
+Positive Score 0.134
+Negetive Score 0.057
+Positive Sentiment is observed
+The Polarity score is 0.4031423612565445
+The Subjectivity score is 2.299447259327499e-05
+The Word Count : 1424
+Avg_word_length : 4.95435393258427
+The Avg no of words per Sentence : 1424.0
+The No of syllables present:490
+The complex word count : 1424
+The Percentage of complex words : 100.0
+The Fog Index : 5.696000000000001
+Number of pronouns present: 5
+None
+Enter filename: 13.txt
+Positive Score 0.138
+Negetive Score 0.036
+Positive Sentiment is observed
+The Polarity score is 0.5862078965517241
+The Subjectivity score is 2.5176740308461862e-05
+The Word Count : 1192
+Avg_word_length : 4.9135906040268456
+The Avg no of words per Sentence : 1192.0
+The No of syllables present:382
+The complex word count : 1192
+The Percentage of complex words : 100.0
+The Fog Index : 4.768
+Number of pronouns present: 3
+None
+Enter filename: 14.txt
+Positive Score 0.159
+Negetive Score 0.027
+Positive Sentiment is observed
+The Polarity score is 0.7096784193548388
+The Subjectivity score is 5.135192203573362e-05
+The Word Count : 582
+Avg_word_length : 5.22680412371134
+The Avg no of words per Sentence : 582.0
+The No of syllables present:190
+The complex word count : 582
+The Percentage of complex words : 100.0
+The Fog Index : 2.3280000000000003
+Number of pronouns present: 4
+None
+Enter filename: 15.txt
+Positive Score 0.1
+Negetive Score 0.097
+Positive Sentiment is observed
+The Polarity score is 0.015229426395939098
+The Subjectivity score is 2.391230518725285e-05
+The Word Count : 1419
+Avg_word_length : 4.935165609584214
+The Avg no of words per Sentence : 1419.0
+The No of syllables present:491
+The complex word count : 1419
+The Percentage of complex words : 100.0
+The Fog Index : 5.676
+Number of pronouns present: 4
+None
+Enter filename: 16.txt
+Positive Score 0.141
+Negetive Score 0.016
+Positive Sentiment is observed
+The Polarity score is 0.7961793439490447
+The Subjectivity score is 2.8190855559404223e-05
+The Word Count : 985
+Avg_word_length : 4.792893401015228
+The Avg no of words per Sentence : 985.0
+The No of syllables present:316
+The complex word count : 985
+The Percentage of complex words : 100.0
+The Fog Index : 3.94
+Number of pronouns present: 5
+None
+Enter filename: 17.txt
+Positive Score 0.145
+Negetive Score 0.044
+Positive Sentiment is observed
+The Polarity score is 0.5343925343915343
+The Subjectivity score is 1.6460122699386504e-05
+The Word Count : 1821
+Avg_word_length : 5.598023064250412
+The Avg no of words per Sentence : 1821.0
+The No of syllables present:586
+The complex word count : 1821
+The Percentage of complex words : 100.0
+The Fog Index : 7.284000000000001
+Number of pronouns present: 3
+None
+Enter filename: 18.txt
+Positive Score 0.149
+Negetive Score 0.083
+Positive Sentiment is observed
+The Polarity score is 0.2844837586206896
+The Subjectivity score is 2.819174871073605e-05
+The Word Count : 1459
+Avg_word_length : 4.725839616175462
+The Avg no of words per Sentence : 1459.0
+The No of syllables present:454
+The complex word count : 1459
+The Percentage of complex words : 100.0
+The Fog Index : 5.836
+Number of pronouns present: 5
+None
+Enter filename: 19.txt
+Positive Score 0.075
+Negetive Score 0.036
+Positive Sentiment is observed
+The Polarity score is 0.35135235135135134
+The Subjectivity score is 1.0931997136721546e-05
+The Word Count : 1733
+Avg_word_length : 5.342758222735141
+The Avg no of words per Sentence : 1733.0
+The No of syllables present:604
+The complex word count : 1733
+The Percentage of complex words : 100.0
+The Fog Index : 6.9319999999999995
+Number of pronouns present: 3
+None
+Enter filename: 20.txt
+Positive Score 0.144
+Negetive Score 0.044
+Positive Sentiment is observed
+The Polarity score is 0.5319158936170213
+The Subjectivity score is 1.9903971845148318e-05
+The Word Count : 1675
+Avg_word_length : 4.763582089552239
+The Avg no of words per Sentence : 1675.0
+The No of syllables present:551
+The complex word count : 1675
+The Percentage of complex words : 100.0
+The Fog Index : 6.7
+Number of pronouns present: 3
+None
+Enter filename: 21.txt
+Positive Score 0.146
+Negetive Score 0.05
+Positive Sentiment is observed
+The Polarity score is 0.48979691836734685
+The Subjectivity score is 1.8940503432494282e-05
+The Word Count : 1802
+Avg_word_length : 4.959489456159822
+The Avg no of words per Sentence : 1802.0
+The No of syllables present:584
+The complex word count : 1802
+The Percentage of complex words : 100.0
+The Fog Index : 7.208
+Number of pronouns present: 3
+None
+Enter filename: 22.txt
+Positive Score 0.162
+Negetive Score 0.038
+Positive Sentiment is observed
+The Polarity score is 0.620001
+The Subjectivity score is 2.578314745972739e-05
+The Word Count : 1338
+Avg_word_length : 4.917040358744394
+The Avg no of words per Sentence : 1338.0
+The No of syllables present:410
+The complex word count : 1338
+The Percentage of complex words : 100.0
+The Fog Index : 5.352
+Number of pronouns present: 5
+None
+Enter filename: 23.txt
+Positive Score 0.101
+Negetive Score 0.025
+Positive Sentiment is observed
+The Polarity score is 0.6031756031746033
+The Subjectivity score is 2.8061855670103093e-05
+The Word Count : 749
+Avg_word_length : 5.037383177570093
+The Avg no of words per Sentence : 749.0
+The No of syllables present:223
+The complex word count : 749
+The Percentage of complex words : 100.0
+The Fog Index : 2.9960000000000004
+Number of pronouns present: 3
+None
+Enter filename: 24.txt
+Positive Score 0.131
+Negetive Score 0.05
+Positive Sentiment is observed
+The Polarity score is 0.44751481215469613
+The Subjectivity score is 2.032934643314823e-05
+The Word Count : 1568
+Avg_word_length : 4.892857142857143
+The Avg no of words per Sentence : 1568.0
+The No of syllables present:450
+The complex word count : 1568
+The Percentage of complex words : 100.0
+The Fog Index : 6.272
+Number of pronouns present: 4
+None
+Enter filename: 25.txt
+Positive Score 0.162
+Negetive Score 0.056
+Positive Sentiment is observed
+The Polarity score is 0.48623953211009174
+The Subjectivity score is 5.0874170670327156e-05
+The Word Count : 759
+Avg_word_length : 4.691699604743083
+The Avg no of words per Sentence : 759.0
+The No of syllables present:249
+The complex word count : 759
+The Percentage of complex words : 100.0
+The Fog Index : 3.036
+Number of pronouns present: 3
+None
+Enter filename: 26.txt
+Positive Score 0.147
+Negetive Score 0.046
+Positive Sentiment is observed
+The Polarity score is 0.5233170621761658
+The Subjectivity score is 1.5733949156424155e-05
+The Word Count : 2222
+Avg_word_length : 4.813231323132313
+The Avg no of words per Sentence : 2222.0
+The No of syllables present:816
+The complex word count : 2222
+The Percentage of complex words : 100.0
+The Fog Index : 8.888
+Number of pronouns present: 5
+None
+Enter filename: 27.txt
+Positive Score 0.12
+Negetive Score 0.095
+Positive Sentiment is observed
+The Polarity score is 0.11628006976744183
+The Subjectivity score is 1.807568898419506e-05
+The Word Count : 2109
+Avg_word_length : 4.872451398767188
+The Avg no of words per Sentence : 2109.0
+The No of syllables present:749
+The complex word count : 2109
+The Percentage of complex words : 100.0
+The Fog Index : 8.436
+Number of pronouns present: 3
+None
+Enter filename: 28.txt
+Positive Score 0.134
+Negetive Score 0.053
+Positive Sentiment is observed
+The Polarity score is 0.4331560802139038
+The Subjectivity score is 2.449541399673326e-05
+The Word Count : 1214
+Avg_word_length : 5.466227347611203
+The Avg no of words per Sentence : 1214.0
+The No of syllables present:431
+The complex word count : 1214
+The Percentage of complex words : 100.0
+The Fog Index : 4.856000000000001
+Number of pronouns present: 3
+None
+Enter filename: 29.txt
+Positive Score 0.133
+Negetive Score 0.064
+Positive Sentiment is observed
+The Polarity score is 0.35025480710659895
+The Subjectivity score is 2.6785340314136126e-05
+The Word Count : 1276
+Avg_word_length : 4.877742946708464
+The Avg no of words per Sentence : 1276.0
+The No of syllables present:384
+The complex word count : 1276
+The Percentage of complex words : 100.0
+The Fog Index : 5.104
+Number of pronouns present: 3
+None
+Enter filename: 30.txt
+Positive Score 0.143
+Negetive Score 0.036
+Positive Sentiment is observed
+The Polarity score is 0.5977663631284916
+The Subjectivity score is 1.85990561400059e-05
+The Word Count : 1734
+Avg_word_length : 4.794117647058823
+The Avg no of words per Sentence : 1734.0
+The No of syllables present:549
+The complex word count : 1734
+The Percentage of complex words : 100.0
+The Fog Index : 6.936
+Number of pronouns present: 5
+None
+Enter filename: 31.txt
+Positive Score 0.164
+Negetive Score 0.026
+Positive Sentiment is observed
+The Polarity score is 0.7263167894736843
+The Subjectivity score is 1.945018450184502e-05
+The Word Count : 1694
+Avg_word_length : 4.982880755608028
+The Avg no of words per Sentence : 1694.0
+The No of syllables present:561
+The complex word count : 1694
+The Percentage of complex words : 100.0
+The Fog Index : 6.776000000000001
+Number of pronouns present: 5
+None
+Enter filename: 32.txt
+Positive Score 0.115
+Negetive Score 0.004
+Positive Sentiment is observed
+The Polarity score is 0.9327741092436974
+The Subjectivity score is 3.6385072851620574e-05
+The Word Count : 514
+Avg_word_length : 5.406614785992218
+The Avg no of words per Sentence : 514.0
+The No of syllables present:190
+The complex word count : 514
+The Percentage of complex words : 100.0
+The Fog Index : 2.056
+Number of pronouns present: 4
+None
+Enter filename: 33.txt
+Positive Score 0.147
+Negetive Score 0.053
+Positive Sentiment is observed
+The Polarity score is 0.470001
+The Subjectivity score is 1.9901805122389187e-05
+The Word Count : 1869
+Avg_word_length : 4.652755484216159
+The Avg no of words per Sentence : 1869.0
+The No of syllables present:593
+The complex word count : 1869
+The Percentage of complex words : 100.0
+The Fog Index : 7.476000000000001
+Number of pronouns present: 5
+None
+Enter filename: 34.txt
+Positive Score 0.133
+Negetive Score 0.006
+Positive Sentiment is observed
+The Polarity score is 0.9136700647482014
+The Subjectivity score is 2.3805578342904024e-05
+The Word Count : 978
+Avg_word_length : 5.112474437627812
+The Avg no of words per Sentence : 978.0
+The No of syllables present:355
+The complex word count : 978
+The Percentage of complex words : 100.0
+The Fog Index : 3.912
+Number of pronouns present: 3
+None
+Enter filename: 35.txt
+Positive Score 0.093
+Negetive Score 0.016
+Positive Sentiment is observed
+The Polarity score is 0.7064230183486239
+The Subjectivity score is 2.36047283284944e-05
+The Word Count : 731
+Avg_word_length : 5.451436388508892
+The Avg no of words per Sentence : 731.0
+The No of syllables present:283
+The complex word count : 731
+The Percentage of complex words : 100.0
+The Fog Index : 2.924
+Number of pronouns present: 3
+None
+Enter filename: 36.txt
+Positive Score 0.098
+Negetive Score 0.045
+Positive Sentiment is observed
+The Polarity score is 0.3706303706293706
+The Subjectivity score is 6.807317073170732e-05
+The Word Count : 329
+Avg_word_length : 5.331306990881459
+The Avg no of words per Sentence : 329.0
+The No of syllables present:88
+The complex word count : 329
+The Percentage of complex words : 100.0
+The Fog Index : 1.316
+Number of pronouns present: 3
+None
+Enter filename: 37.txt
+Positive Score 0.155
+Negetive Score 0.088
+Positive Sentiment is observed
+The Polarity score is 0.2757211646090535
+The Subjectivity score is 3.8442218798151e-05
+The Word Count : 1057
+Avg_word_length : 5.050141911069064
+The Avg no of words per Sentence : 1057.0
+The No of syllables present:296
+The complex word count : 1057
+The Percentage of complex words : 100.0
+The Fog Index : 4.228000000000001
+Number of pronouns present: 5
+None
+Enter filename: 38.txt
+Positive Score 0.07
+Negetive Score 0.103
+Negetive Sentiment is observed
+The Polarity score is -0.19075044508670513
+The Subjectivity score is 2.1016198079370587e-05
+The Word Count : 1401
+Avg_word_length : 5.057815845824411
+The Avg no of words per Sentence : 1401.0
+The No of syllables present:443
+The complex word count : 1401
+The Percentage of complex words : 100.0
+The Fog Index : 5.604
+Number of pronouns present: 4
+None
+Enter filename: 39.txt
+Positive Score 0.07
+Negetive Score 0.022
+Positive Sentiment is observed
+The Polarity score is 0.5217401304347827
+The Subjectivity score is 2.163705697622252e-05
+The Word Count : 732
+Avg_word_length : 4.952185792349726
+The Avg no of words per Sentence : 732.0
+The No of syllables present:258
+The complex word count : 732
+The Percentage of complex words : 100.0
+The Fog Index : 2.9280000000000004
+Number of pronouns present: 3
+None
+Enter filename: 40.txt
+Positive Score 0.16
+Negetive Score 0.059
+Positive Sentiment is observed
+The Polarity score is 0.46118821461187215
+The Subjectivity score is 1.967007672634271e-05
+The Word Count : 1980
+Avg_word_length : 4.798989898989899
+The Avg no of words per Sentence : 1980.0
+The No of syllables present:690
+The complex word count : 1980
+The Percentage of complex words : 100.0
+The Fog Index : 7.920000000000001
+Number of pronouns present: 3
+None
+Enter filename: 41.txt
+Positive Score 0.18
+Negetive Score 0.005
+Positive Sentiment is observed
+The Polarity score is 0.945946945945946
+The Subjectivity score is 4.425461772270282e-05
+The Word Count : 688
+Avg_word_length : 5.075581395348837
+The Avg no of words per Sentence : 688.0
+The No of syllables present:226
+The complex word count : 688
+The Percentage of complex words : 100.0
+The Fog Index : 2.7520000000000002
+Number of pronouns present: 3
+None
+Enter filename: 42.txt
+Positive Score 0.113
+Negetive Score 0.0
+Positive Sentiment is observed
+The Polarity score is 1.000001
+The Subjectivity score is 4.863912310286678e-05
+The Word Count : 399
+Avg_word_length : 4.87218045112782
+The Avg no of words per Sentence : 399.0
+The No of syllables present:111
+The complex word count : 399
+The Percentage of complex words : 100.0
+The Fog Index : 1.596
+Number of pronouns present: 3
+None
+Enter filename: 43.txt
+Positive Score 0.102
+Negetive Score 0.014
+Positive Sentiment is observed
+The Polarity score is 0.7586216896551724
+The Subjectivity score is 1.78997668997669e-05
+The Word Count : 1171
+Avg_word_length : 4.756618274978651
+The Avg no of words per Sentence : 1171.0
+The No of syllables present:423
+The complex word count : 1171
+The Percentage of complex words : 100.0
+The Fog Index : 4.684
+Number of pronouns present: 5
+None
+Enter filename: 44.txt
+Positive Score 0.154
+Negetive Score 0.017
+Positive Sentiment is observed
+The Polarity score is 0.801170590643275
+The Subjectivity score is 4.2464597478176525e-05
+The Word Count : 630
+Avg_word_length : 5.385714285714286
+The Avg no of words per Sentence : 630.0
+The No of syllables present:237
+The complex word count : 630
+The Percentage of complex words : 100.0
+The Fog Index : 2.52
+Number of pronouns present: 3
+None
+Enter filename: 45.txt
+Positive Score 0.204
+Negetive Score 0.035
+Positive Sentiment is observed
+The Polarity score is 0.7071139707112971
+The Subjectivity score is 9.721578099838968e-05
+The Word Count : 400
+Avg_word_length : 5.1025
+The Avg no of words per Sentence : 400.0
+The No of syllables present:102
+The complex word count : 400
+The Percentage of complex words : 100.0
+The Fog Index : 1.6
+Number of pronouns present: 2
+None
+Enter filename: 46.txt
+Positive Score 0.08
+Negetive Score 0.022
+Positive Sentiment is observed
+The Polarity score is 0.5686284509803922
+The Subjectivity score is 9.389617486338798e-05
+The Word Count : 168
+Avg_word_length : 5.410714285714286
+The Avg no of words per Sentence : 168.0
+The No of syllables present:70
+The complex word count : 168
+The Percentage of complex words : 100.0
+The Fog Index : 0.672
+Number of pronouns present: 3
+None
+Enter filename: 47.txt
+Positive Score 0.135
+Negetive Score 0.16
+Negetive Sentiment is observed
+The Polarity score is -0.08474476271186437
+The Subjectivity score is 6.253525239883188e-05
+The Word Count : 854
+Avg_word_length : 4.530444964871195
+The Avg no of words per Sentence : 854.0
+The No of syllables present:248
+The complex word count : 854
+The Percentage of complex words : 100.0
+The Fog Index : 3.416
+Number of pronouns present: 3
+None
+Enter filename: 48.txt
+Positive Score 0.25
+Negetive Score 0.022
+Positive Sentiment is observed
+The Polarity score is 0.8382362941176471
+The Subjectivity score is 0.00023917863397548162
+The Word Count : 189
+Avg_word_length : 4.894179894179894
+The Avg no of words per Sentence : 189.0
+The No of syllables present:55
+The complex word count : 189
+The Percentage of complex words : 100.0
+The Fog Index : 0.756
+Number of pronouns present: 3
+None
+Enter filename: 49.txt
+Positive Score 0.143
+Negetive Score 0.039
+Positive Sentiment is observed
+The Polarity score is 0.5714295714285714
+The Subjectivity score is 2.3875816993464052e-05
+The Word Count : 1178
+Avg_word_length : 5.601867572156197
+The Avg no of words per Sentence : 1178.0
+The No of syllables present:406
+The complex word count : 1178
+The Percentage of complex words : 100.0
+The Fog Index : 4.712
+Number of pronouns present: 3
+None
+Enter filename: 50.txt
+Positive Score 0.092
+Negetive Score 0.196
+Negetive Sentiment is observed
+The Polarity score is -0.36111011111111113
+The Subjectivity score is 8.74864864864865e-05
+The Word Count : 541
+Avg_word_length : 5.033271719038817
+The Avg no of words per Sentence : 541.0
+The No of syllables present:144
+The complex word count : 541
+The Percentage of complex words : 100.0
+The Fog Index : 2.164
+Number of pronouns present: 4
+None
+Enter filename: 51.txt
+Positive Score 0.075
+Negetive Score 0.094
+Negetive Sentiment is observed
+The Polarity score is -0.11242503550295861
+The Subjectivity score is 2.7555625392834693e-05
+The Word Count : 1085
+Avg_word_length : 4.7861751152073735
+The Avg no of words per Sentence : 1085.0
+The No of syllables present:383
+The complex word count : 1085
+The Percentage of complex words : 100.0
+The Fog Index : 4.34
+Number of pronouns present: 5
+None
+Enter filename: 52.txt
+Positive Score 0.05
+Negetive Score 0.048
+Positive Sentiment is observed
+The Polarity score is 0.02040916326530614
+The Subjectivity score is 9.712660028449502e-06
+The Word Count : 1772
+Avg_word_length : 5.242663656884876
+The Avg no of words per Sentence : 1772.0
+The No of syllables present:621
+The complex word count : 1772
+The Percentage of complex words : 100.0
+The Fog Index : 7.088
+Number of pronouns present: 5
+None
+Enter filename: 53.txt
+Positive Score 0.115
+Negetive Score 0.044
+Positive Sentiment is observed
+The Polarity score is 0.4465418805031447
+The Subjectivity score is 1.650009748488984e-05
+The Word Count : 1781
+Avg_word_length : 4.687254351487928
+The Avg no of words per Sentence : 1781.0
+The No of syllables present:546
+The complex word count : 1781
+The Percentage of complex words : 100.0
+The Fog Index : 7.124
+Number of pronouns present: 3
+None
+Enter filename: 54.txt
+Positive Score 0.111
+Negetive Score 0.051
+Positive Sentiment is observed
+The Polarity score is 0.3703713703703704
+The Subjectivity score is 1.9467852257181943e-05
+The Word Count : 1492
+Avg_word_length : 4.7560321715817695
+The Avg no of words per Sentence : 1492.0
+The No of syllables present:458
+The complex word count : 1492
+The Percentage of complex words : 100.0
+The Fog Index : 5.968
+Number of pronouns present: 4
+None
+Enter filename: 55.txt
+Positive Score 0.138
+Negetive Score 0.051
+Positive Sentiment is observed
+The Polarity score is 0.4603184603174604
+The Subjectivity score is 3.8182766083021836e-05
+The Word Count : 908
+Avg_word_length : 4.4812775330396475
+The Avg no of words per Sentence : 908.0
+The No of syllables present:266
+The complex word count : 908
+The Percentage of complex words : 100.0
+The Fog Index : 3.632
+Number of pronouns present: 3
+None
+Enter filename: 56.txt
+Positive Score 0.126
+Negetive Score 0.021
+Positive Sentiment is observed
+The Polarity score is 0.7142867142857143
+The Subjectivity score is 1.914142910033321e-05
+The Word Count : 1472
+Avg_word_length : 4.425271739130435
+The Avg no of words per Sentence : 1472.0
+The No of syllables present:415
+The complex word count : 1472
+The Percentage of complex words : 100.0
+The Fog Index : 5.888000000000001
+Number of pronouns present: 3
+None
+Enter filename: 57.txt
+Positive Score 0.168
+Negetive Score 0.034
+Positive Sentiment is observed
+The Polarity score is 0.6633673366336634
+The Subjectivity score is 7.400325262016624e-05
+The Word Count : 492
+Avg_word_length : 4.565040650406504
+The Avg no of words per Sentence : 492.0
+The No of syllables present:156
+The complex word count : 492
+The Percentage of complex words : 100.0
+The Fog Index : 1.968
+Number of pronouns present: 4
+None
+Enter filename: 58.txt
+Positive Score 0.133
+Negetive Score 0.023
+Positive Sentiment is observed
+The Polarity score is 0.7051292051282052
+The Subjectivity score is 1.652547770700637e-05
+The Word Count : 1644
+Avg_word_length : 5.019464720194647
+The Avg no of words per Sentence : 1644.0
+The No of syllables present:573
+The complex word count : 1644
+The Percentage of complex words : 100.0
+The Fog Index : 6.5760000000000005
+Number of pronouns present: 3
+None
+Enter filename: 59.txt
+Positive Score 0.158
+Negetive Score 0.191
+Negetive Sentiment is observed
+The Polarity score is -0.09455487392550144
+The Subjectivity score is 6.003247631935047e-05
+The Word Count : 1046
+Avg_word_length : 4.564053537284895
+The Avg no of words per Sentence : 1046.0
+The No of syllables present:359
+The complex word count : 1046
+The Percentage of complex words : 100.0
+The Fog Index : 4.184
+Number of pronouns present: 5
+None
+Enter filename: 60.txt
+Positive Score 0.158
+Negetive Score 0.064
+Positive Sentiment is observed
+The Polarity score is 0.4234244234234234
+The Subjectivity score is 3.5477403323497436e-05
+The Word Count : 1168
+Avg_word_length : 4.428082191780822
+The Avg no of words per Sentence : 1168.0
+The No of syllables present:332
+The complex word count : 1168
+The Percentage of complex words : 100.0
+The Fog Index : 4.672
+Number of pronouns present: 5
+None
+Enter filename: 61.txt
+Positive Score 0.132
+Negetive Score 0.124
+Positive Sentiment is observed
+The Polarity score is 0.03125100000000003
+The Subjectivity score is 3.614552443712246e-05
+The Word Count : 1215
+Avg_word_length : 4.900411522633745
+The Avg no of words per Sentence : 1215.0
+The No of syllables present:323
+The complex word count : 1215
+The Percentage of complex words : 100.0
+The Fog Index : 4.86
+Number of pronouns present: 4
+None
+Enter filename: 62.txt
+Positive Score 0.122
+Negetive Score 0.058
+Positive Sentiment is observed
+The Polarity score is 0.35555655555555554
+The Subjectivity score is 2.0573727707699e-05
+The Word Count : 1456
+Avg_word_length : 5.147664835164835
+The Avg no of words per Sentence : 1456.0
+The No of syllables present:464
+The complex word count : 1456
+The Percentage of complex words : 100.0
+The Fog Index : 5.824000000000001
+Number of pronouns present: 5
+None
+Enter filename: 63.txt
+Positive Score 0.156
+Negetive Score 0.19
+Negetive Sentiment is observed
+The Polarity score is -0.09826489595375724
+The Subjectivity score is 5.6165816326530605e-05
+The Word Count : 1098
+Avg_word_length : 4.605646630236794
+The Avg no of words per Sentence : 1098.0
+The No of syllables present:372
+The complex word count : 1098
+The Percentage of complex words : 100.0
+The Fog Index : 4.392
+Number of pronouns present: 5
+None
+Enter filename: 65.txt
+Positive Score 0.123
+Negetive Score 0.072
+Positive Sentiment is observed
+The Polarity score is 0.2615394615384615
+The Subjectivity score is 2.181332052513609e-05
+The Word Count : 1596
+Avg_word_length : 4.771303258145363
+The Avg no of words per Sentence : 1596.0
+The No of syllables present:448
+The complex word count : 1596
+The Percentage of complex words : 100.0
+The Fog Index : 6.384
+Number of pronouns present: 4
+None
+Enter filename: 66.txt
+Positive Score 0.11
+Negetive Score 0.042
+Positive Sentiment is observed
+The Polarity score is 0.4473694210526316
+The Subjectivity score is 3.2411448646414546e-05
+The Word Count : 768
+Avg_word_length : 5.17578125
+The Avg no of words per Sentence : 768.0
+The No of syllables present:212
+The complex word count : 768
+The Percentage of complex words : 100.0
+The Fog Index : 3.072
+Number of pronouns present: 3
+None
+Enter filename: 67.txt
+Positive Score 0.1
+Negetive Score 0.036
+Positive Sentiment is observed
+The Polarity score is 0.4705892352941176
+The Subjectivity score is 1.8491961414791e-05
+The Word Count : 1201
+Avg_word_length : 5.352206494587843
+The Avg no of words per Sentence : 1201.0
+The No of syllables present:340
+The complex word count : 1201
+The Percentage of complex words : 100.0
+The Fog Index : 4.804
+Number of pronouns present: 3
+None
+Enter filename: 68.txt
+Positive Score 0.084
+Negetive Score 0.095
+Negetive Sentiment is observed
+The Polarity score is -0.06145151396648042
+The Subjectivity score is 1.7780725602324928e-05
+The Word Count : 1734
+Avg_word_length : 5.0322952710495965
+The Avg no of words per Sentence : 1734.0
+The No of syllables present:488
+The complex word count : 1734
+The Percentage of complex words : 100.0
+The Fog Index : 6.936
+Number of pronouns present: 5
+None
+Enter filename: 69.txt
+Positive Score 0.095
+Negetive Score 0.082
+Positive Sentiment is observed
+The Polarity score is 0.07344732768361581
+The Subjectivity score is 9.481479706742058e-06
+The Word Count : 3454
+Avg_word_length : 4.837579617834395
+The Avg no of words per Sentence : 3454.0
+The No of syllables present:749
+The complex word count : 3454
+The Percentage of complex words : 100.0
+The Fog Index : 13.816
+Number of pronouns present: 5
+None
+Enter filename: 70.txt
+Positive Score 0.067
+Negetive Score 0.041
+Positive Sentiment is observed
+The Polarity score is 0.24074174074074073
+The Subjectivity score is 1.0959424566580599e-05
+The Word Count : 1798
+Avg_word_length : 4.947719688542826
+The Avg no of words per Sentence : 1798.0
+The No of syllables present:565
+The complex word count : 1798
+The Percentage of complex words : 100.0
+The Fog Index : 7.192
+Number of pronouns present: 5
+None
+Enter filename: 71.txt
+Positive Score 0.076
+Negetive Score 0.069
+Positive Sentiment is observed
+The Polarity score is 0.04827686206896546
+The Subjectivity score is 1.535217262199347e-05
+The Word Count : 1523
+Avg_word_length : 5.500328299409061
+The Avg no of words per Sentence : 1523.0
+The No of syllables present:498
+The complex word count : 1523
+The Percentage of complex words : 100.0
+The Fog Index : 6.0920000000000005
+Number of pronouns present: 3
+None
+Enter filename: 72.txt
+Positive Score 0.083
+Negetive Score 0.014
+Positive Sentiment is observed
+The Polarity score is 0.7113412061855671
+The Subjectivity score is 9.838955823293173e-05
+The Word Count : 173
+Avg_word_length : 4.6531791907514455
+The Avg no of words per Sentence : 173.0
+The No of syllables present:64
+The complex word count : 173
+The Percentage of complex words : 100.0
+The Fog Index : 0.6920000000000001
+Number of pronouns present: 3
+None
+Enter filename: 73.txt
+Positive Score 0.148
+Negetive Score 0.008
+Positive Sentiment is observed
+The Polarity score is 0.8974368974358974
+The Subjectivity score is 2.7378085897869463e-05
+The Word Count : 1014
+Avg_word_length : 4.72189349112426
+The Avg no of words per Sentence : 1014.0
+The No of syllables present:309
+The complex word count : 1014
+The Percentage of complex words : 100.0
+The Fog Index : 4.056
+Number of pronouns present: 3
+None
+Enter filename: 74.txt
+Positive Score 0.096
+Negetive Score 0.049
+Positive Sentiment is observed
+The Polarity score is 0.3241389310344827
+The Subjectivity score is 1.4099647664649022e-05
+The Word Count : 1851
+Avg_word_length : 4.873041599135602
+The Avg no of words per Sentence : 1851.0
+The No of syllables present:468
+The complex word count : 1851
+The Percentage of complex words : 100.0
+The Fog Index : 7.404000000000001
+Number of pronouns present: 4
+None
+Enter filename: 75.txt
+Positive Score 0.162
+Negetive Score 0.017
+Positive Sentiment is observed
+The Polarity score is 0.8100568659217878
+The Subjectivity score is 1.7293464409248134e-05
+The Word Count : 1840
+Avg_word_length : 4.885869565217392
+The Avg no of words per Sentence : 1840.0
+The No of syllables present:552
+The complex word count : 1840
+The Percentage of complex words : 100.0
+The Fog Index : 7.359999999999999
+Number of pronouns present: 5
+None
+Enter filename: 76.txt
+Positive Score 0.105
+Negetive Score 0.072
+Positive Sentiment is observed
+The Polarity score is 0.18644167796610173
+The Subjectivity score is 2.7834445118253486e-05
+The Word Count : 1088
+Avg_word_length : 4.955882352941177
+The Avg no of words per Sentence : 1088.0
+The No of syllables present:297
+The complex word count : 1088
+The Percentage of complex words : 100.0
+The Fog Index : 4.352
+Number of pronouns present: 5
+None
+Enter filename: 77.txt
+Positive Score 0.067
+Negetive Score 0.074
+Negetive Sentiment is observed
+The Polarity score is -0.049644390070921925
+The Subjectivity score is 1.3207792207792209e-05
+The Word Count : 1791
+Avg_word_length : 5.264098269123394
+The Avg no of words per Sentence : 1791.0
+The No of syllables present:521
+The complex word count : 1791
+The Percentage of complex words : 100.0
+The Fog Index : 7.164000000000001
+Number of pronouns present: 3
+None
+Enter filename: 78.txt
+Positive Score 0.09
+Negetive Score 0.11
+Negetive Sentiment is observed
+The Polarity score is -0.09999900000000002
+The Subjectivity score is 3.418951211417192e-05
+The Word Count : 987
+Avg_word_length : 4.957446808510638
+The Avg no of words per Sentence : 987.0
+The No of syllables present:281
+The complex word count : 987
+The Percentage of complex words : 100.0
+The Fog Index : 3.948
+Number of pronouns present: 4
+None
+Enter filename: 79.txt
+Positive Score 0.128
+Negetive Score 0.109
+Positive Sentiment is observed
+The Polarity score is 0.08016977637130804
+The Subjectivity score is 3.366712611991729e-05
+The Word Count : 1235
+Avg_word_length : 4.776518218623481
+The Avg no of words per Sentence : 1235.0
+The No of syllables present:398
+The complex word count : 1235
+The Percentage of complex words : 100.0
+The Fog Index : 4.94
+Number of pronouns present: 5
+None
+Enter filename: 80.txt
+Positive Score 0.117
+Negetive Score 0.062
+Positive Sentiment is observed
+The Polarity score is 0.3072635698324023
+The Subjectivity score is 2.775235390823494e-05
+The Word Count : 1111
+Avg_word_length : 4.947794779477948
+The Avg no of words per Sentence : 1111.0
+The No of syllables present:359
+The complex word count : 1111
+The Percentage of complex words : 100.0
+The Fog Index : 4.444
+Number of pronouns present: 5
+None
+Enter filename: 81.txt
+Positive Score 0.087
+Negetive Score 0.12
+Negetive Sentiment is observed
+The Polarity score is -0.15941928985507248
+The Subjectivity score is 2.6207014125669752e-05
+The Word Count : 1323
+Avg_word_length : 5.093726379440665
+The Avg no of words per Sentence : 1323.0
+The No of syllables present:371
+The complex word count : 1323
+The Percentage of complex words : 100.0
+The Fog Index : 5.292000000000001
+Number of pronouns present: 4
+None
+Enter filename: 82.txt
+Positive Score 0.114
+Negetive Score 0.014
+Positive Sentiment is observed
+The Polarity score is 0.781251
+The Subjectivity score is 0.00011832355637030248
+The Word Count : 197
+Avg_word_length : 4.436548223350254
+The Avg no of words per Sentence : 197.0
+The No of syllables present:72
+The complex word count : 197
+The Percentage of complex words : 100.0
+The Fog Index : 0.788
+Number of pronouns present: 3
+None
+Enter filename: 83.txt
+Positive Score 0.097
+Negetive Score 0.136
+Negetive Sentiment is observed
+The Polarity score is -0.16738097424892706
+The Subjectivity score is 3.63780747039174e-05
+The Word Count : 1132
+Avg_word_length : 4.7234982332155475
+The Avg no of words per Sentence : 1132.0
+The No of syllables present:351
+The complex word count : 1132
+The Percentage of complex words : 100.0
+The Fog Index : 4.5280000000000005
+Number of pronouns present: 3
+None
+Enter filename: 84.txt
+Positive Score 0.075
+Negetive Score 0.098
+Negetive Sentiment is observed
+The Polarity score is -0.13294697687861276
+The Subjectivity score is 4.470894391106619e-05
+The Word Count : 645
+Avg_word_length : 4.961240310077519
+The Avg no of words per Sentence : 645.0
+The No of syllables present:210
+The complex word count : 645
+The Percentage of complex words : 100.0
+The Fog Index : 2.58
+Number of pronouns present: 5
+None
+Enter filename: 85.txt
+Positive Score 0.074
+Negetive Score 0.15
+Negetive Sentiment is observed
+The Polarity score is -0.33928471428571433
+The Subjectivity score is 3.220211728653015e-05
+The Word Count : 1135
+Avg_word_length : 5.229955947136564
+The Avg no of words per Sentence : 1135.0
+The No of syllables present:343
+The complex word count : 1135
+The Percentage of complex words : 100.0
+The Fog Index : 4.54
+Number of pronouns present: 4
+None
+Enter filename: 86.txt
+Positive Score 0.097
+Negetive Score 0.096
+Positive Sentiment is observed
+The Polarity score is 0.005182347150259072
+The Subjectivity score is 3.1393700787401574e-05
+The Word Count : 1108
+Avg_word_length : 4.64259927797834
+The Avg no of words per Sentence : 1108.0
+The No of syllables present:374
+The complex word count : 1108
+The Percentage of complex words : 100.0
+The Fog Index : 4.432
+Number of pronouns present: 4
+None
+Enter filename: 87.txt
+Positive Score 0.098
+Negetive Score 0.019
+Positive Sentiment is observed
+The Polarity score is 0.6752146752136752
+The Subjectivity score is 4.486951631046119e-05
+The Word Count : 399
+Avg_word_length : 5.541353383458647
+The Avg no of words per Sentence : 399.0
+The No of syllables present:168
+The complex word count : 399
+The Percentage of complex words : 100.0
+The Fog Index : 1.596
+Number of pronouns present: 4
+None
+Enter filename: 88.txt
+Positive Score 0.138
+Negetive Score 0.033
+Positive Sentiment is observed
+The Polarity score is 0.6140360877192983
+The Subjectivity score is 4.815940430226145e-05
+The Word Count : 623
+Avg_word_length : 4.677367576243981
+The Avg no of words per Sentence : 623.0
+The No of syllables present:194
+The complex word count : 623
+The Percentage of complex words : 100.0
+The Fog Index : 2.4920000000000004
+Number of pronouns present: 3
+None
+Enter filename: 89.txt
+Positive Score 0.089
+Negetive Score 0.134
+Negetive Sentiment is observed
+The Polarity score is -0.20179272197309422
+The Subjectivity score is 3.3954041672824e-05
+The Word Count : 1067
+Avg_word_length : 5.22211808809747
+The Avg no of words per Sentence : 1067.0
+The No of syllables present:344
+The complex word count : 1067
+The Percentage of complex words : 100.0
+The Fog Index : 4.268
+Number of pronouns present: 5
+None
+Enter filename: 90.txt
+Positive Score 0.11
+Negetive Score 0.1
+Positive Sentiment is observed
+The Polarity score is 0.04762004761904759
+The Subjectivity score is 5.469470723600103e-05
+The Word Count : 744
+Avg_word_length : 4.173387096774194
+The Avg no of words per Sentence : 744.0
+The No of syllables present:200
+The complex word count : 744
+The Percentage of complex words : 100.0
+The Fog Index : 2.9760000000000004
+Number of pronouns present: 5
+None
+Enter filename: 91.txt
+Positive Score 0.046
+Negetive Score 0.134
+Negetive Sentiment is observed
+The Polarity score is -0.48888788888888896
+The Subjectivity score is 2.798246140008994e-05
+The Word Count : 1077
+Avg_word_length : 5.091922005571031
+The Avg no of words per Sentence : 1077.0
+The No of syllables present:294
+The complex word count : 1077
+The Percentage of complex words : 100.0
+The Fog Index : 4.308
+Number of pronouns present: 5
+None
+Enter filename: 92.txt
+Positive Score 0.07
+Negetive Score 0.129
+Negetive Sentiment is observed
+The Polarity score is -0.2964814120603015
+The Subjectivity score is 3.09608551641072e-05
+The Word Count : 1042
+Avg_word_length : 5.258157389635317
+The Avg no of words per Sentence : 1042.0
+The No of syllables present:327
+The complex word count : 1042
+The Percentage of complex words : 100.0
+The Fog Index : 4.168
+Number of pronouns present: 3
+None
+Enter filename: 93.txt
+Positive Score 0.104
+Negetive Score 0.109
+Negetive Sentiment is observed
+The Polarity score is -0.02347317840375589
+The Subjectivity score is 3.317522658610272e-05
+The Word Count : 1043
+Avg_word_length : 5.222435282837967
+The Avg no of words per Sentence : 1043.0
+The No of syllables present:344
+The complex word count : 1043
+The Percentage of complex words : 100.0
+The Fog Index : 4.172
+Number of pronouns present: 5
+None
+Enter filename: 94.txt
+Positive Score 0.087
+Negetive Score 0.09
+Negetive Sentiment is observed
+The Polarity score is -0.016948152542372898
+The Subjectivity score is 2.3553516819571866e-05
+The Word Count : 1288
+Avg_word_length : 4.958850931677019
+The Avg no of words per Sentence : 1288.0
+The No of syllables present:401
+The complex word count : 1288
+The Percentage of complex words : 100.0
+The Fog Index : 5.152000000000001
+Number of pronouns present: 3
+None
+Enter filename: 95.txt
+Positive Score 0.127
+Negetive Score 0.105
+Positive Sentiment is observed
+The Polarity score is 0.09482858620689659
+The Subjectivity score is 2.5759871931696904e-05
+The Word Count : 1611
+Avg_word_length : 4.747361887026692
+The Avg no of words per Sentence : 1611.0
+The No of syllables present:541
+The complex word count : 1611
+The Percentage of complex words : 100.0
+The Fog Index : 6.444
+Number of pronouns present: 3
+None
+Enter filename: 96.txt
+Positive Score 0.095
+Negetive Score 0.059
+Positive Sentiment is observed
+The Polarity score is 0.2337672337662338
+The Subjectivity score is 1.466338390559844e-05
+The Word Count : 1854
+Avg_word_length : 4.973570658036677
+The Avg no of words per Sentence : 1854.0
+The No of syllables present:567
+The complex word count : 1854
+The Percentage of complex words : 100.0
+The Fog Index : 7.416
+Number of pronouns present: 4
+None
+Enter filename: 97.txt
+Positive Score 0.087
+Negetive Score 0.093
+Negetive Sentiment is observed
+The Polarity score is -0.03333233333333337
+The Subjectivity score is 3.9151759220008475e-05
+The Word Count : 893
+Avg_word_length : 4.244120940649496
+The Avg no of words per Sentence : 893.0
+The No of syllables present:220
+The complex word count : 893
+The Percentage of complex words : 100.0
+The Fog Index : 3.572
+Number of pronouns present: 5
+None
+Enter filename: 98.txt
+Positive Score 0.101
+Negetive Score 0.13
+Negetive Sentiment is observed
+The Polarity score is -0.12554012554112554
+The Subjectivity score is 1.9772856562373022e-05
+The Word Count : 1934
+Avg_word_length : 5.199586349534643
+The Avg no of words per Sentence : 1934.0
+The No of syllables present:543
+The complex word count : 1934
+The Percentage of complex words : 100.0
+The Fog Index : 7.736000000000001
+Number of pronouns present: 4
+None
+Enter filename: 99.txt
+Positive Score 0.132
+Negetive Score 0.096
+Positive Sentiment is observed
+The Polarity score is 0.15789573684210528
+The Subjectivity score is 3.249171270718232e-05
+The Word Count : 1290
+Avg_word_length : 4.496124031007752
+The Avg no of words per Sentence : 1290.0
+The No of syllables present:371
+The complex word count : 1290
+The Percentage of complex words : 100.0
+The Fog Index : 5.16
+Number of pronouns present: 3
+None
+Enter filename: 100.txt
+Positive Score 0.066
+Negetive Score 0.086
+Negetive Sentiment is observed
+The Polarity score is -0.131577947368421
+The Subjectivity score is 6.769591926283458e-05
+The Word Count : 345
+Avg_word_length : 5.423188405797101
+The Avg no of words per Sentence : 345.0
+The No of syllables present:127
+The complex word count : 345
+The Percentage of complex words : 100.0
+The Fog Index : 1.3800000000000001
+Number of pronouns present: 3
+None
+Enter filename: 101.txt
+Positive Score 0.081
+Negetive Score 0.137
+Negetive Sentiment is observed
+The Polarity score is -0.25687973394495417
+The Subjectivity score is 1.698123304743054e-05
+The Word Count : 2173
+Avg_word_length : 5.16428900138058
+The Avg no of words per Sentence : 2173.0
+The No of syllables present:613
+The complex word count : 2173
+The Percentage of complex words : 100.0
+The Fog Index : 8.692
+Number of pronouns present: 3
+None
+Enter filename: 102.txt
+Positive Score 0.136
+Negetive Score 0.115
+Positive Sentiment is observed
+The Polarity score is 0.08366633864541835
+The Subjectivity score is 2.9035295431698872e-05
+The Word Count : 1635
+Avg_word_length : 4.418960244648318
+The Avg no of words per Sentence : 1635.0
+The No of syllables present:460
+The complex word count : 1635
+The Percentage of complex words : 100.0
+The Fog Index : 6.540000000000001
+Number of pronouns present: 5
+None
+Enter filename: 103.txt
+Positive Score 0.088
+Negetive Score 0.116
+Negetive Sentiment is observed
+The Polarity score is -0.13725390196078435
+The Subjectivity score is 2.0305384688180185e-05
+The Word Count : 1784
+Avg_word_length : 4.819506726457399
+The Avg no of words per Sentence : 1784.0
+The No of syllables present:526
+The complex word count : 1784
+The Percentage of complex words : 100.0
+The Fog Index : 7.136
+Number of pronouns present: 4
+None
+Enter filename: 104.txt
+Positive Score 0.119
+Negetive Score 0.11
+Positive Sentiment is observed
+The Polarity score is 0.039302310043668104
+The Subjectivity score is 2.1453733476241514e-05
+The Word Count : 1834
+Avg_word_length : 4.951472191930208
+The Avg no of words per Sentence : 1834.0
+The No of syllables present:590
+The complex word count : 1834
+The Percentage of complex words : 100.0
+The Fog Index : 7.336
+Number of pronouns present: 5
+None
+Enter filename: 105.txt
+Positive Score 0.111
+Negetive Score 0.112
+Negetive Sentiment is observed
+The Polarity score is -0.00448330493273543
+The Subjectivity score is 1.846964355660008e-05
+The Word Count : 1961
+Avg_word_length : 5.229984701682815
+The Avg no of words per Sentence : 1961.0
+The No of syllables present:582
+The complex word count : 1961
+The Percentage of complex words : 100.0
+The Fog Index : 7.844
+Number of pronouns present: 4
+None
+Enter filename: 106.txt
+Positive Score 0.099
+Negetive Score 0.033
+Positive Sentiment is observed
+The Polarity score is 0.500001
+The Subjectivity score is 1.2380291404431418e-05
+The Word Count : 1875
+Avg_word_length : 5.080533333333333
+The Avg no of words per Sentence : 1875.0
+The No of syllables present:566
+The complex word count : 1875
+The Percentage of complex words : 100.0
+The Fog Index : 7.5
+Number of pronouns present: 5
+None
+Enter filename: 107.txt
+Positive Score 0.058
+Negetive Score 0.106
+Negetive Sentiment is observed
+The Polarity score is -0.29268192682926825
+The Subjectivity score is 3.2220255092328195e-05
+The Word Count : 865
+Avg_word_length : 4.958381502890173
+The Avg no of words per Sentence : 865.0
+The No of syllables present:255
+The complex word count : 865
+The Percentage of complex words : 100.0
+The Fog Index : 3.4600000000000004
+Number of pronouns present: 4
+None
+Enter filename: 108.txt
+Positive Score 0.081
+Negetive Score 0.123
+Negetive Sentiment is observed
+The Polarity score is -0.20588135294117643
+The Subjectivity score is 2.095500342365255e-05
+The Word Count : 1630
+Avg_word_length : 5.147239263803681
+The Avg no of words per Sentence : 1630.0
+The No of syllables present:525
+The complex word count : 1630
+The Percentage of complex words : 100.0
+The Fog Index : 6.5200000000000005
+Number of pronouns present: 4
+None
+Enter filename: 109.txt
+Positive Score 0.156
+Negetive Score 0.062
+Positive Sentiment is observed
+The Polarity score is 0.4311936605504587
+The Subjectivity score is 3.735757171447631e-05
+The Word Count : 1009
+Avg_word_length : 4.8196233894945495
+The Avg no of words per Sentence : 1009.0
+The No of syllables present:339
+The complex word count : 1009
+The Percentage of complex words : 100.0
+The Fog Index : 4.0360000000000005
+Number of pronouns present: 3
+None
+Enter filename: 110.txt
+Positive Score 0.032
+Negetive Score 0.049
+Negetive Sentiment is observed
+The Polarity score is -0.20987554320987656
+The Subjectivity score is 1.9161434977578477e-05
+The Word Count : 691
+Avg_word_length : 5.256150506512301
+The Avg no of words per Sentence : 691.0
+The No of syllables present:189
+The complex word count : 691
+The Percentage of complex words : 100.0
+The Fog Index : 2.7640000000000002
+Number of pronouns present: 3
+None
+Enter filename: 111.txt
+Positive Score 0.067
+Negetive Score 0.106
+Negetive Sentiment is observed
+The Polarity score is -0.22543252601156066
+The Subjectivity score is 1.727163280662152e-05
+The Word Count : 1700
+Avg_word_length : 5.16
+The Avg no of words per Sentence : 1700.0
+The No of syllables present:518
+The complex word count : 1700
+The Percentage of complex words : 100.0
+The Fog Index : 6.800000000000001
+Number of pronouns present: 5
+None
+Enter filename: 112.txt
+Positive Score 0.12
+Negetive Score 0.023
+Positive Sentiment is observed
+The Polarity score is 0.6783226783216785
+The Subjectivity score is 1.378497988377291e-05
+The Word Count : 1786
+Avg_word_length : 5.145576707726764
+The Avg no of words per Sentence : 1786.0
+The No of syllables present:547
+The complex word count : 1786
+The Percentage of complex words : 100.0
+The Fog Index : 7.144
+Number of pronouns present: 3
+None
+Enter filename: 113.txt
+Positive Score 0.089
+Negetive Score 0.06
+Positive Sentiment is observed
+The Polarity score is 0.19463187248322147
+The Subjectivity score is 1.800330936893758e-05
+The Word Count : 1403
+Avg_word_length : 5.070563079116179
+The Avg no of words per Sentence : 1403.0
+The No of syllables present:423
+The complex word count : 1403
+The Percentage of complex words : 100.0
+The Fog Index : 5.612
+Number of pronouns present: 3
+None
+Enter filename: 114.txt
+Positive Score 0.147
+Negetive Score 0.083
+Positive Sentiment is observed
+The Polarity score is 0.2782618695652173
+The Subjectivity score is 3.401751363766867e-05
+The Word Count : 1013
+Avg_word_length : 5.7581441263573545
+The Avg no of words per Sentence : 1013.0
+The No of syllables present:327
+The complex word count : 1013
+The Percentage of complex words : 100.0
+The Fog Index : 4.0520000000000005
+Number of pronouns present: 3
+None
+Enter filename: 115.txt
+Positive Score 0.118
+Negetive Score 0.089
+Positive Sentiment is observed
+The Polarity score is 0.1400976183574879
+The Subjectivity score is 8.220831698705374e-05
+The Word Count : 372
+Avg_word_length : 5.661290322580645
+The Avg no of words per Sentence : 372.0
+The No of syllables present:113
+The complex word count : 372
+The Percentage of complex words : 100.0
+The Fog Index : 1.4880000000000002
+Number of pronouns present: 3
+None
+Enter filename: 116.txt
+Positive Score 0.091
+Negetive Score 0.064
+Positive Sentiment is observed
+The Polarity score is 0.17419454838709675
+The Subjectivity score is 8.340297713981924e-05
+The Word Count : 342
+Avg_word_length : 4.4035087719298245
+The Avg no of words per Sentence : 342.0
+The No of syllables present:105
+The complex word count : 342
+The Percentage of complex words : 100.0
+The Fog Index : 1.368
+Number of pronouns present: 4
+None
+Enter filename: 117.txt
+Positive Score 0.06
+Negetive Score 0.095
+Negetive Sentiment is observed
+The Polarity score is -0.22580545161290325
+The Subjectivity score is 6.593506493506493e-05
+The Word Count : 406
+Avg_word_length : 4.711822660098522
+The Avg no of words per Sentence : 406.0
+The No of syllables present:176
+The complex word count : 406
+The Percentage of complex words : 100.0
+The Fog Index : 1.6239999999999999
+Number of pronouns present: 4
+None
+Enter filename: 118.txt
+Positive Score 0.027
+Negetive Score 0.084
+Negetive Sentiment is observed
+The Polarity score is -0.5135125135135136
+The Subjectivity score is 7.933450952717007e-05
+The Word Count : 239
+Avg_word_length : 4.7489539748953975
+The Avg no of words per Sentence : 239.0
+The No of syllables present:63
+The complex word count : 239
+The Percentage of complex words : 100.0
+The Fog Index : 0.9560000000000001
+Number of pronouns present: 0
+None
+Enter filename: 119.txt
+Positive Score 0.054
+Negetive Score 0.119
+Negetive Sentiment is observed
+The Polarity score is -0.3757215433526012
+The Subjectivity score is 0.00010960012554927808
+The Word Count : 260
+Avg_word_length : 4.973076923076923
+The Avg no of words per Sentence : 260.0
+The No of syllables present:96
+The complex word count : 260
+The Percentage of complex words : 100.0
+The Fog Index : 1.04
+Number of pronouns present: 4
+None
+Enter filename: 120.txt
+Positive Score 0.211
+Negetive Score 0.046
+Positive Sentiment is observed
+The Polarity score is 0.6420243463035019
+The Subjectivity score is 6.273432620706222e-05
+The Word Count : 619
+Avg_word_length : 5.51373182552504
+The Avg no of words per Sentence : 619.0
+The No of syllables present:231
+The complex word count : 619
+The Percentage of complex words : 100.0
+The Fog Index : 2.4760000000000004
+Number of pronouns present: 3
+None
+Enter filename: 121.txt
+Positive Score 0.042
+Negetive Score 0.134
+Negetive Sentiment is observed
+The Polarity score is -0.5227262727272727
+The Subjectivity score is 2.8555973070299047e-05
+The Word Count : 1056
+Avg_word_length : 4.927083333333333
+The Avg no of words per Sentence : 1056.0
+The No of syllables present:321
+The complex word count : 1056
+The Percentage of complex words : 100.0
+The Fog Index : 4.224
+Number of pronouns present: 4
+None
+Enter filename: 122.txt
+Positive Score 0.082
+Negetive Score 0.124
+Negetive Sentiment is observed
+The Polarity score is -0.20388249514563103
+The Subjectivity score is 3.566846179737462e-05
+The Word Count : 996
+Avg_word_length : 4.825301204819277
+The Avg no of words per Sentence : 996.0
+The No of syllables present:281
+The complex word count : 996
+The Percentage of complex words : 100.0
+The Fog Index : 3.9840000000000004
+Number of pronouns present: 4
+None
+Enter filename: 123.txt
+Positive Score 0.086
+Negetive Score 0.068
+Positive Sentiment is observed
+The Polarity score is 0.11688411688311681
+The Subjectivity score is 1.4551566349876805e-05
+The Word Count : 1849
+Avg_word_length : 5.040562466197945
+The Avg no of words per Sentence : 1849.0
+The No of syllables present:632
+The complex word count : 1849
+The Percentage of complex words : 100.0
+The Fog Index : 7.396
+Number of pronouns present: 5
+None
+Enter filename: 124.txt
+Positive Score 0.11
+Negetive Score 0.087
+Positive Sentiment is observed
+The Polarity score is 0.11675226903553303
+The Subjectivity score is 5.190439276485788e-05
+The Word Count : 627
+Avg_word_length : 5.054226475279107
+The Avg no of words per Sentence : 627.0
+The No of syllables present:220
+The complex word count : 627
+The Percentage of complex words : 100.0
+The Fog Index : 2.508
+Number of pronouns present: 4
+None
+Enter filename: 125.txt
+Positive Score 0.093
+Negetive Score 0.026
+Positive Sentiment is observed
+The Polarity score is 0.5630262100840338
+The Subjectivity score is 1.7968487095394267e-05
+The Word Count : 1130
+Avg_word_length : 5.074336283185841
+The Avg no of words per Sentence : 1130.0
+The No of syllables present:402
+The complex word count : 1130
+The Percentage of complex words : 100.0
+The Fog Index : 4.5200000000000005
+Number of pronouns present: 3
+None
+Enter filename: 126.txt
+Positive Score 0.077
+Negetive Score 0.034
+Positive Sentiment is observed
+The Polarity score is 0.38738838738738735
+The Subjectivity score is 1.9743667679837895e-05
+The Word Count : 950
+Avg_word_length : 5.146315789473684
+The Avg no of words per Sentence : 950.0
+The No of syllables present:258
+The complex word count : 950
+The Percentage of complex words : 100.0
+The Fog Index : 3.8000000000000003
+Number of pronouns present: 3
+None
+Enter filename: 127.txt
+Positive Score 0.129
+Negetive Score 0.051
+Positive Sentiment is observed
+The Polarity score is 0.4333343333333334
+The Subjectivity score is 3.1231776956667785e-05
+The Word Count : 928
+Avg_word_length : 5.293103448275862
+The Avg no of words per Sentence : 928.0
+The No of syllables present:292
+The complex word count : 928
+The Percentage of complex words : 100.0
+The Fog Index : 3.7119999999999997
+Number of pronouns present: 4
+None
+Enter filename: 128.txt
+Positive Score 0.109
+Negetive Score 0.02
+Positive Sentiment is observed
+The Polarity score is 0.689923480620155
+The Subjectivity score is 1.4132444263463302e-05
+The Word Count : 1570
+Avg_word_length : 5.094904458598726
+The Avg no of words per Sentence : 1570.0
+The No of syllables present:549
+The complex word count : 1570
+The Percentage of complex words : 100.0
+The Fog Index : 6.28
+Number of pronouns present: 3
+None
+Enter filename: 129.txt
+Positive Score 0.091
+Negetive Score 0.091
+Neutral Sentiment is observed
+The Polarity score is 1e-06
+The Subjectivity score is 2.6134649910233392e-05
+The Word Count : 1182
+Avg_word_length : 5.014382402707276
+The Avg no of words per Sentence : 1182.0
+The No of syllables present:374
+The complex word count : 1182
+The Percentage of complex words : 100.0
+The Fog Index : 4.728000000000001
+Number of pronouns present: 4
+None
+Enter filename: 130.txt
+Positive Score 0.169
+Negetive Score 0.004
+Positive Sentiment is observed
+The Polarity score is 0.953758225433526
+The Subjectivity score is 3.606993715791608e-05
+The Word Count : 729
+Avg_word_length : 5.663923182441701
+The Avg no of words per Sentence : 729.0
+The No of syllables present:257
+The complex word count : 729
+The Percentage of complex words : 100.0
+The Fog Index : 2.9160000000000004
+Number of pronouns present: 3
+None
+Enter filename: 131.txt
+Positive Score 0.187
+Negetive Score 0.082
+Positive Sentiment is observed
+The Polarity score is 0.3903355724907063
+The Subjectivity score is 4.249313589387629e-05
+The Word Count : 1054
+Avg_word_length : 5.038899430740038
+The Avg no of words per Sentence : 1054.0
+The No of syllables present:355
+The complex word count : 1054
+The Percentage of complex words : 100.0
+The Fog Index : 4.216
+Number of pronouns present: 4
+None
+Enter filename: 132.txt
+Positive Score 0.104
+Negetive Score 0.088
+Positive Sentiment is observed
+The Polarity score is 0.08333433333333333
+The Subjectivity score is 2.1743301642178048e-05
+The Word Count : 1522
+Avg_word_length : 4.992772667542707
+The Avg no of words per Sentence : 1522.0
+The No of syllables present:463
+The complex word count : 1522
+The Percentage of complex words : 100.0
+The Fog Index : 6.088000000000001
+Number of pronouns present: 3
+None
+Enter filename: 133.txt
+Positive Score 0.198
+Negetive Score 0.019
+Positive Sentiment is observed
+The Polarity score is 0.8248857926267282
+The Subjectivity score is 2.909425168306577e-05
+The Word Count : 1156
+Avg_word_length : 5.5657439446366785
+The Avg no of words per Sentence : 1156.0
+The No of syllables present:390
+The complex word count : 1156
+The Percentage of complex words : 100.0
+The Fog Index : 4.6240000000000006
+Number of pronouns present: 3
+None
+Enter filename: 134.txt
+Positive Score 0.09
+Negetive Score 0.048
+Positive Sentiment is observed
+The Polarity score is 0.30434882608695646
+The Subjectivity score is 1.9498659517426276e-05
+The Word Count : 1098
+Avg_word_length : 5.657559198542805
+The Avg no of words per Sentence : 1098.0
+The No of syllables present:349
+The complex word count : 1098
+The Percentage of complex words : 100.0
+The Fog Index : 4.392
+Number of pronouns present: 3
+None
+Enter filename: 135.txt
+Positive Score 0.104
+Negetive Score 0.071
+Positive Sentiment is observed
+The Polarity score is 0.18857242857142859
+The Subjectivity score is 2.3258967183922666e-05
+The Word Count : 1264
+Avg_word_length : 5.050632911392405
+The Avg no of words per Sentence : 1264.0
+The No of syllables present:378
+The complex word count : 1264
+The Percentage of complex words : 100.0
+The Fog Index : 5.056000000000001
+Number of pronouns present: 4
+None
+Enter filename: 136.txt
+Positive Score 0.204
+Negetive Score 0.041
+Positive Sentiment is observed
+The Polarity score is 0.6653071224489795
+The Subjectivity score is 3.0246747045481676e-05
+The Word Count : 1264
+Avg_word_length : 5.519778481012659
+The Avg no of words per Sentence : 1264.0
+The No of syllables present:368
+The complex word count : 1264
+The Percentage of complex words : 100.0
+The Fog Index : 5.056000000000001
+Number of pronouns present: 3
+None
+Enter filename: 137.txt
+Positive Score 0.115
+Negetive Score 0.051
+Positive Sentiment is observed
+The Polarity score is 0.38554316867469873
+The Subjectivity score is 3.416020775069916e-05
+The Word Count : 805
+Avg_word_length : 5.088198757763975
+The Avg no of words per Sentence : 805.0
+The No of syllables present:263
+The complex word count : 805
+The Percentage of complex words : 100.0
+The Fog Index : 3.2200000000000006
+Number of pronouns present: 4
+None
+Enter filename: 138.txt
+Positive Score 0.108
+Negetive Score 0.084
+Positive Sentiment is observed
+The Polarity score is 0.12500099999999995
+The Subjectivity score is 2.329188436084988e-05
+The Word Count : 1366
+Avg_word_length : 5.179355783308931
+The Avg no of words per Sentence : 1366.0
+The No of syllables present:413
+The complex word count : 1366
+The Percentage of complex words : 100.0
+The Fog Index : 5.464
+Number of pronouns present: 3
+None
+Enter filename: 139.txt
+Positive Score 0.122
+Negetive Score 0.127
+Negetive Sentiment is observed
+The Polarity score is -0.02007932128514058
+The Subjectivity score is 5.02094861660079e-05
+The Word Count : 829
+Avg_word_length : 5.010856453558504
+The Avg no of words per Sentence : 829.0
+The No of syllables present:229
+The complex word count : 829
+The Percentage of complex words : 100.0
+The Fog Index : 3.316
+Number of pronouns present: 4
+None
+Enter filename: 140.txt
+Positive Score 0.136
+Negetive Score 0.025
+Positive Sentiment is observed
+The Polarity score is 0.68944199378882
+The Subjectivity score is 1.693743813106316e-05
+The Word Count : 1624
+Avg_word_length : 5.128694581280788
+The Avg no of words per Sentence : 1624.0
+The No of syllables present:496
+The complex word count : 1624
+The Percentage of complex words : 100.0
+The Fog Index : 6.4959999999999996
+Number of pronouns present: 5
+None
+Enter filename: 141.txt
+Positive Score 0.167
+Negetive Score 0.009
+Positive Sentiment is observed
+The Polarity score is 0.8977282727272726
+The Subjectivity score is 1.9377362430823852e-05
+The Word Count : 1511
+Avg_word_length : 5.232296492389146
+The Avg no of words per Sentence : 1511.0
+The No of syllables present:532
+The complex word count : 1511
+The Percentage of complex words : 100.0
+The Fog Index : 6.0440000000000005
+Number of pronouns present: 3
+None
+Enter filename: 142.txt
+Positive Score 0.138
+Negetive Score 0.045
+Positive Sentiment is observed
+The Polarity score is 0.5081977213114756
+The Subjectivity score is 3.243249742356578e-05
+The Word Count : 890
+Avg_word_length : 5.431460674157304
+The Avg no of words per Sentence : 890.0
+The No of syllables present:285
+The complex word count : 890
+The Percentage of complex words : 100.0
+The Fog Index : 3.5600000000000005
+Number of pronouns present: 5
+None
+Enter filename: 143.txt 
+Positive Score 0.146
+Negetive Score 0.044
+Positive Sentiment is observed
+The Polarity score is 0.5368431052631579
+The Subjectivity score is 2.5390243902439026e-05
+The Word Count : 1238
+Avg_word_length : 5.204361873990307
+The Avg no of words per Sentence : 1238.0
+The No of syllables present:409
+The complex word count : 1238
+The Percentage of complex words : 100.0
+The Fog Index : 4.952000000000001
+Number of pronouns present: 4
+None
+Enter filename: 144.txt
+Positive Score 0.123
+Negetive Score 0.043
+Positive Sentiment is observed
+The Polarity score is 0.4819287108433735
+The Subjectivity score is 2.7956804157193893e-05
+The Word Count : 989
+Avg_word_length : 5.136501516683519
+The Avg no of words per Sentence : 989.0
+The No of syllables present:315
+The complex word count : 989
+The Percentage of complex words : 100.0
+The Fog Index : 3.9560000000000004
+Number of pronouns present: 3
+None
+Enter filename: 145.txt
+Positive Score 0.144
+Negetive Score 0.028
+Positive Sentiment is observed
+The Polarity score is 0.6744196046511628
+The Subjectivity score is 4.932818207361618e-05
+The Word Count : 549
+Avg_word_length : 5.2896174863387975
+The Avg no of words per Sentence : 549.0
+The No of syllables present:192
+The complex word count : 549
+The Percentage of complex words : 100.0
+The Fog Index : 2.196
+Number of pronouns present: 3
+None
+Enter filename: 146.txt
+Positive Score 0.178
+Negetive Score 0.022
+Positive Sentiment is observed
+The Polarity score is 0.780001
+The Subjectivity score is 2.1391517128874386e-05
+The Word Count : 1575
+Avg_word_length : 5.12952380952381
+The Avg no of words per Sentence : 1575.0
+The No of syllables present:564
+The complex word count : 1575
+The Percentage of complex words : 100.0
+The Fog Index : 6.300000000000001
+Number of pronouns present: 4
+None
+Enter filename: 147.txt
+Positive Score 0.12
+Negetive Score 0.028
+Positive Sentiment is observed
+The Polarity score is 0.6216226216216216
+The Subjectivity score is 1.939423315933383e-05
+The Word Count : 1312
+Avg_word_length : 4.996189024390244
+The Avg no of words per Sentence : 1312.0
+The No of syllables present:448
+The complex word count : 1312
+The Percentage of complex words : 100.0
+The Fog Index : 5.248
+Number of pronouns present: 4
+None
+Enter filename: 148.txt
+Positive Score 0.137
+Negetive Score 0.026
+Positive Sentiment is observed
+The Polarity score is 0.6809825950920246
+The Subjectivity score is 3.919119025304592e-05
+The Word Count : 737
+Avg_word_length : 4.724559023066486
+The Avg no of words per Sentence : 737.0
+The No of syllables present:237
+The complex word count : 737
+The Percentage of complex words : 100.0
+The Fog Index : 2.9480000000000004
+Number of pronouns present: 3
+None
+Enter filename: 149.txt
+Positive Score 0.171
+Negetive Score 0.085
+Positive Sentiment is observed
+The Polarity score is 0.3359385
+The Subjectivity score is 3.547347158631834e-05
+The Word Count : 1205
+Avg_word_length : 5.051452282157676
+The Avg no of words per Sentence : 1205.0
+The No of syllables present:409
+The complex word count : 1205
+The Percentage of complex words : 100.0
+The Fog Index : 4.82
+Number of pronouns present: 5
+None
+Enter filename: 150.txt
+Positive Score 0.13
+Negetive Score 0.084
+Positive Sentiment is observed
+The Polarity score is 0.21495427102803735
+The Subjectivity score is 2.1037453183520602e-05
+The Word Count : 1618
+Avg_word_length : 5.434487021013597
+The Avg no of words per Sentence : 1618.0
+The No of syllables present:542
+The complex word count : 1618
+The Percentage of complex words : 100.0
+The Fog Index : 6.472
+Number of pronouns present: 3
+None
+Enter filename: 151.txt
+Positive Score 0.124
+Negetive Score 0.025
+Positive Sentiment is observed
+The Polarity score is 0.6644305302013424
+The Subjectivity score is 2.091446137396418e-05
+The Word Count : 1189
+Avg_word_length : 5.187552565180824
+The Avg no of words per Sentence : 1189.0
+The No of syllables present:385
+The complex word count : 1189
+The Percentage of complex words : 100.0
+The Fog Index : 4.756
+Number of pronouns present: 3
+None
+Enter filename: 152.txt
+Positive Score 0.188
+Negetive Score 0.032
+Positive Sentiment is observed
+The Polarity score is 0.7090919090909091
+The Subjectivity score is 3.655842896395668e-05
+The Word Count : 950
+Avg_word_length : 5.377894736842105
+The Avg no of words per Sentence : 950.0
+The No of syllables present:357
+The complex word count : 950
+The Percentage of complex words : 100.0
+The Fog Index : 3.8000000000000003
+Number of pronouns present: 3
+None
+Enter filename: 153.txt
+Positive Score 0.117
+Negetive Score 0.053
+Positive Sentiment is observed
+The Polarity score is 0.3764715882352941
+The Subjectivity score is 2.8746042108699203e-05
+The Word Count : 984
+Avg_word_length : 5.105691056910569
+The Avg no of words per Sentence : 984.0
+The No of syllables present:322
+The complex word count : 984
+The Percentage of complex words : 100.0
+The Fog Index : 3.936
+Number of pronouns present: 3
+None
+Enter filename: 154.txt
+Positive Score 0.146
+Negetive Score 0.04
+Positive Sentiment is observed
+The Polarity score is 0.5698934731182795
+The Subjectivity score is 2.905006786306741e-05
+The Word Count : 997
+Avg_word_length : 5.487462387161484
+The Avg no of words per Sentence : 997.0
+The No of syllables present:345
+The complex word count : 997
+The Percentage of complex words : 100.0
+The Fog Index : 3.9880000000000004
+Number of pronouns present: 3
+None
+Enter filename: 155.txt
+Positive Score 0.129
+Negetive Score 0.011
+Positive Sentiment is observed
+The Polarity score is 0.8428581428571429
+The Subjectivity score is 1.790412943733398e-05
+The Word Count : 1271
+Avg_word_length : 5.410700236034619
+The Avg no of words per Sentence : 1271.0
+The No of syllables present:388
+The complex word count : 1271
+The Percentage of complex words : 100.0
+The Fog Index : 5.0840000000000005
+Number of pronouns present: 3
+None
+Enter filename: 156.txt
+Positive Score 0.107
+Negetive Score 0.027
+Positive Sentiment is observed
+The Polarity score is 0.5970159253731343
+The Subjectivity score is 2.2703919663103337e-05
+The Word Count : 1016
+Avg_word_length : 4.980314960629921
+The Avg no of words per Sentence : 1016.0
+The No of syllables present:335
+The complex word count : 1016
+The Percentage of complex words : 100.0
+The Fog Index : 4.064
+Number of pronouns present: 3
+None
+Enter filename: 157.txt
+Positive Score 0.096
+Negetive Score 0.074
+Positive Sentiment is observed
+The Polarity score is 0.1294127647058824
+The Subjectivity score is 4.496172743728988e-05
+The Word Count : 605
+Avg_word_length : 5.251239669421488
+The Avg no of words per Sentence : 605.0
+The No of syllables present:179
+The complex word count : 605
+The Percentage of complex words : 100.0
+The Fog Index : 2.42
+Number of pronouns present: 4
+None
+Enter filename: 158.txt
+Positive Score 0.117
+Negetive Score 0.011
+Positive Sentiment is observed
+The Polarity score is 0.8281260000000001
+The Subjectivity score is 2.889886660854403e-05
+The Word Count : 729
+Avg_word_length : 5.159122085048011
+The Avg no of words per Sentence : 729.0
+The No of syllables present:276
+The complex word count : 729
+The Percentage of complex words : 100.0
+The Fog Index : 2.9160000000000004
+Number of pronouns present: 3
+None
+Enter filename: 160.txt
+Positive Score 0.168
+Negetive Score 0.035
+Positive Sentiment is observed
+The Polarity score is 0.6551734137931035
+The Subjectivity score is 3.935978835978836e-05
+The Word Count : 803
+Avg_word_length : 5.466998754669987
+The Avg no of words per Sentence : 803.0
+The No of syllables present:275
+The complex word count : 803
+The Percentage of complex words : 100.0
+The Fog Index : 3.2119999999999997
+Number of pronouns present: 3
+None
+Enter filename: 159.txt
+Positive Score 0.088
+Negetive Score 0.01
+Positive Sentiment is observed
+The Polarity score is 0.7959193673469389
+The Subjectivity score is 2.172319729329668e-05
+The Word Count : 802
+Avg_word_length : 4.837905236907731
+The Avg no of words per Sentence : 802.0
+The No of syllables present:256
+The complex word count : 802
+The Percentage of complex words : 100.0
+The Fog Index : 3.208
+Number of pronouns present: 3
+None
+Enter filename: 161.txt
+Positive Score 0.095
+Negetive Score 0.035
+Positive Sentiment is observed
+The Polarity score is 0.4615394615384615
+The Subjectivity score is 2.9901734104046246e-05
+The Word Count : 685
+Avg_word_length : 5.405839416058394
+The Avg no of words per Sentence : 685.0
+The No of syllables present:253
+The complex word count : 685
+The Percentage of complex words : 100.0
+The Fog Index : 2.74
+Number of pronouns present: 3
+None
+Enter filename: 162.txt
+Positive Score 0.21
+Negetive Score 0.016
+Positive Sentiment is observed
+The Polarity score is 0.8584080796460178
+The Subjectivity score is 4.6227136281769056e-05
+The Word Count : 822
+Avg_word_length : 4.979318734793187
+The Avg no of words per Sentence : 822.0
+The No of syllables present:283
+The complex word count : 822
+The Percentage of complex words : 100.0
+The Fog Index : 3.2880000000000003
+Number of pronouns present: 4
+None
+Enter filename: 163.txt
+Positive Score 0.136
+Negetive Score 0.031
+Positive Sentiment is observed
+The Polarity score is 0.62874351497006
+The Subjectivity score is 4.323571067273647e-05
+The Word Count : 601
+Avg_word_length : 5.477537437603993
+The Avg no of words per Sentence : 601.0
+The No of syllables present:209
+The complex word count : 601
+The Percentage of complex words : 100.0
+The Fog Index : 2.404
+Number of pronouns present: 3
+None
+Enter filename: 164.txt
+Positive Score 0.189
+Negetive Score 0.069
+Positive Sentiment is observed
+The Polarity score is 0.4651172790697674
+The Subjectivity score is 4.9587570621468924e-05
+The Word Count : 775
+Avg_word_length : 5.763870967741935
+The Avg no of words per Sentence : 775.0
+The No of syllables present:282
+The complex word count : 775
+The Percentage of complex words : 100.0
+The Fog Index : 3.1
+Number of pronouns present: 2
+None
+Enter filename: 165.txt
+Positive Score 0.184
+Negetive Score 0.081
+Positive Sentiment is observed
+The Polarity score is 0.3886802452830188
+The Subjectivity score is 3.348743410567611e-05
+The Word Count : 1214
+Avg_word_length : 5.614497528830313
+The Avg no of words per Sentence : 1214.0
+The No of syllables present:380
+The complex word count : 1214
+The Percentage of complex words : 100.0
+The Fog Index : 4.856000000000001
+Number of pronouns present: 3
+None
+Enter filename: 166.txt
+Positive Score 0.096
+Negetive Score 0.029
+Positive Sentiment is observed
+The Polarity score is 0.5360010000000001
+The Subjectivity score is 2.2750478510527233e-05
+The Word Count : 920
+Avg_word_length : 5.1173913043478265
+The Avg no of words per Sentence : 920.0
+The No of syllables present:309
+The complex word count : 920
+The Percentage of complex words : 100.0
+The Fog Index : 3.6799999999999997
+Number of pronouns present: 3
+None
+Enter filename: 167.txt
+Positive Score 0.093
+Negetive Score 0.032
+Positive Sentiment is observed
+The Polarity score is 0.48800099999999996
+The Subjectivity score is 1.4228913112498678e-05
+The Word Count : 1537
+Avg_word_length : 5.020169160702667
+The Avg no of words per Sentence : 1537.0
+The No of syllables present:487
+The complex word count : 1537
+The Percentage of complex words : 100.0
+The Fog Index : 6.148
+Number of pronouns present: 3
+None
+Enter filename: 168.txt
+Positive Score 0.106
+Negetive Score 0.045
+Positive Sentiment is observed
+The Polarity score is 0.4039745099337748
+The Subjectivity score is 2.45495945102932e-05
+The Word Count : 969
+Avg_word_length : 5.476780185758514
+The Avg no of words per Sentence : 969.0
+The No of syllables present:300
+The complex word count : 969
+The Percentage of complex words : 100.0
+The Fog Index : 3.876
+Number of pronouns present: 3
+None
+Enter filename: 169.txt
+Positive Score 0.118
+Negetive Score 0.113
+Positive Sentiment is observed
+The Polarity score is 0.021646021645021607
+The Subjectivity score is 3.668669859416035e-05
+The Word Count : 979
+Avg_word_length : 5.429009193054137
+The Avg no of words per Sentence : 979.0
+The No of syllables present:382
+The complex word count : 979
+The Percentage of complex words : 100.0
+The Fog Index : 3.916
+Number of pronouns present: 4
+None
+Enter filename: 170.txt
+Positive Score 0.032
+Negetive Score 0.053
+Negetive Sentiment is observed
+The Polarity score is -0.24705782352941177
+The Subjectivity score is 2.4723137036003347e-05
+The Word Count : 592
+Avg_word_length : 4.89527027027027
+The Avg no of words per Sentence : 592.0
+The No of syllables present:201
+The complex word count : 592
+The Percentage of complex words : 100.0
+The Fog Index : 2.368
+Number of pronouns present: 4
+None
+Enter filename: 171.txt
+Positive Score 0.11
+Negetive Score 0.042
+Positive Sentiment is observed
+The Polarity score is 0.4473694210526316
+The Subjectivity score is 3.2411448646414546e-05
+The Word Count : 768
+Avg_word_length : 5.17578125
+The Avg no of words per Sentence : 768.0
+The No of syllables present:212
+The complex word count : 768
+The Percentage of complex words : 100.0
+The Fog Index : 3.072
+Number of pronouns present: 3
+None
